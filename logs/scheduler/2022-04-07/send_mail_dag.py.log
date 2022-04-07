@@ -1,0 +1,952 @@
+[2022-04-07 03:33:07,116] {processor.py:163} INFO - Started process (PID=29) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:33:07,117] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:33:07,117] {logging_mixin.py:109} INFO - [2022-04-07 03:33:07,117] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:33:07,142] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:33:07,161] {logging_mixin.py:109} INFO - [2022-04-07 03:33:07,161] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:33:07,188] {logging_mixin.py:109} INFO - [2022-04-07 03:33:07,188] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:31:07.188521+00:00
+[2022-04-07 03:33:07,198] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.085 seconds
+[2022-04-07 03:33:37,697] {processor.py:163} INFO - Started process (PID=86) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:33:37,699] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:33:37,700] {logging_mixin.py:109} INFO - [2022-04-07 03:33:37,700] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:33:37,725] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:33:37,752] {logging_mixin.py:109} INFO - [2022-04-07 03:33:37,752] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:33:37,774] {logging_mixin.py:109} INFO - [2022-04-07 03:33:37,774] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:31:37.774070+00:00
+[2022-04-07 03:33:37,784] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.090 seconds
+[2022-04-07 03:34:08,209] {processor.py:163} INFO - Started process (PID=136) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:34:08,211] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:34:08,211] {logging_mixin.py:109} INFO - [2022-04-07 03:34:08,211] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:34:08,226] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:34:08,242] {logging_mixin.py:109} INFO - [2022-04-07 03:34:08,241] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:34:08,255] {logging_mixin.py:109} INFO - [2022-04-07 03:34:08,255] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:32:08.255695+00:00
+[2022-04-07 03:34:08,262] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.055 seconds
+[2022-04-07 03:34:38,397] {processor.py:163} INFO - Started process (PID=188) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:34:38,398] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:34:38,398] {logging_mixin.py:109} INFO - [2022-04-07 03:34:38,398] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:34:38,419] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:34:38,436] {logging_mixin.py:109} INFO - [2022-04-07 03:34:38,436] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:34:38,452] {logging_mixin.py:109} INFO - [2022-04-07 03:34:38,452] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:32:38.452322+00:00
+[2022-04-07 03:34:38,462] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.068 seconds
+[2022-04-07 03:35:09,228] {processor.py:163} INFO - Started process (PID=239) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:35:09,229] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:35:09,230] {logging_mixin.py:109} INFO - [2022-04-07 03:35:09,230] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:35:09,247] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:35:09,265] {logging_mixin.py:109} INFO - [2022-04-07 03:35:09,265] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:35:09,285] {logging_mixin.py:109} INFO - [2022-04-07 03:35:09,285] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:33:09.284810+00:00
+[2022-04-07 03:35:09,294] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.068 seconds
+[2022-04-07 03:35:39,485] {processor.py:163} INFO - Started process (PID=300) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:35:39,502] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:35:39,504] {logging_mixin.py:109} INFO - [2022-04-07 03:35:39,504] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:35:39,594] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:35:39,661] {logging_mixin.py:109} INFO - [2022-04-07 03:35:39,661] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:35:39,729] {logging_mixin.py:109} INFO - [2022-04-07 03:35:39,728] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:33:39.728346+00:00
+[2022-04-07 03:35:39,754] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.279 seconds
+[2022-04-07 03:36:10,557] {processor.py:163} INFO - Started process (PID=352) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:36:10,558] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:36:10,559] {logging_mixin.py:109} INFO - [2022-04-07 03:36:10,558] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:36:10,574] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:36:10,593] {logging_mixin.py:109} INFO - [2022-04-07 03:36:10,593] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:36:10,615] {logging_mixin.py:109} INFO - [2022-04-07 03:36:10,615] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:34:10.614946+00:00
+[2022-04-07 03:36:10,626] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.071 seconds
+[2022-04-07 03:36:41,302] {processor.py:163} INFO - Started process (PID=412) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:36:41,303] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:36:41,304] {logging_mixin.py:109} INFO - [2022-04-07 03:36:41,304] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:36:41,319] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:36:41,336] {logging_mixin.py:109} INFO - [2022-04-07 03:36:41,336] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:36:41,350] {logging_mixin.py:109} INFO - [2022-04-07 03:36:41,350] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:34:41.349905+00:00
+[2022-04-07 03:36:41,357] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.057 seconds
+[2022-04-07 03:37:11,868] {processor.py:163} INFO - Started process (PID=464) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:37:11,872] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:37:11,873] {logging_mixin.py:109} INFO - [2022-04-07 03:37:11,873] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:37:11,930] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:37:11,982] {logging_mixin.py:109} INFO - [2022-04-07 03:37:11,982] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:37:12,032] {logging_mixin.py:109} INFO - [2022-04-07 03:37:12,032] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:35:12.031610+00:00
+[2022-04-07 03:37:12,054] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.193 seconds
+[2022-04-07 03:37:43,012] {processor.py:163} INFO - Started process (PID=525) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:37:43,015] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:37:43,017] {logging_mixin.py:109} INFO - [2022-04-07 03:37:43,016] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:37:43,068] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:37:43,127] {logging_mixin.py:109} INFO - [2022-04-07 03:37:43,127] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:37:43,183] {logging_mixin.py:109} INFO - [2022-04-07 03:37:43,183] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:35:43.182854+00:00
+[2022-04-07 03:37:43,206] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.203 seconds
+[2022-04-07 03:38:13,447] {processor.py:163} INFO - Started process (PID=576) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:38:13,448] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:38:13,449] {logging_mixin.py:109} INFO - [2022-04-07 03:38:13,449] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:38:13,466] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:38:13,482] {logging_mixin.py:109} INFO - [2022-04-07 03:38:13,482] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:38:13,499] {logging_mixin.py:109} INFO - [2022-04-07 03:38:13,499] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:36:13.498760+00:00
+[2022-04-07 03:38:13,507] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.063 seconds
+[2022-04-07 03:38:44,168] {processor.py:163} INFO - Started process (PID=638) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:38:44,172] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:38:44,174] {logging_mixin.py:109} INFO - [2022-04-07 03:38:44,174] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:38:44,239] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:38:44,323] {logging_mixin.py:109} INFO - [2022-04-07 03:38:44,322] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:38:44,398] {logging_mixin.py:109} INFO - [2022-04-07 03:38:44,397] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:36:44.396535+00:00
+[2022-04-07 03:38:44,425] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.267 seconds
+[2022-04-07 03:39:14,596] {processor.py:163} INFO - Started process (PID=691) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:39:14,599] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:39:14,601] {logging_mixin.py:109} INFO - [2022-04-07 03:39:14,601] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:39:14,653] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:39:14,718] {logging_mixin.py:109} INFO - [2022-04-07 03:39:14,718] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:39:14,774] {logging_mixin.py:109} INFO - [2022-04-07 03:39:14,774] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:37:14.773679+00:00
+[2022-04-07 03:39:14,797] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.209 seconds
+[2022-04-07 03:39:45,213] {processor.py:163} INFO - Started process (PID=751) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:39:45,215] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:39:45,215] {logging_mixin.py:109} INFO - [2022-04-07 03:39:45,215] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:39:45,228] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:39:45,244] {logging_mixin.py:109} INFO - [2022-04-07 03:39:45,244] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:39:45,259] {logging_mixin.py:109} INFO - [2022-04-07 03:39:45,259] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:37:45.259544+00:00
+[2022-04-07 03:39:45,267] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.055 seconds
+[2022-04-07 03:40:15,363] {processor.py:163} INFO - Started process (PID=802) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:40:15,366] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:40:15,368] {logging_mixin.py:109} INFO - [2022-04-07 03:40:15,368] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:40:15,419] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:40:15,476] {logging_mixin.py:109} INFO - [2022-04-07 03:40:15,476] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:40:15,532] {logging_mixin.py:109} INFO - [2022-04-07 03:40:15,532] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:38:15.531395+00:00
+[2022-04-07 03:40:15,555] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.200 seconds
+[2022-04-07 03:40:45,691] {processor.py:163} INFO - Started process (PID=862) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:40:45,695] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:40:45,697] {logging_mixin.py:109} INFO - [2022-04-07 03:40:45,697] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:40:45,759] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:40:45,803] {logging_mixin.py:109} INFO - [2022-04-07 03:40:45,803] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:40:45,826] {logging_mixin.py:109} INFO - [2022-04-07 03:40:45,826] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:38:45.825949+00:00
+[2022-04-07 03:40:45,836] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.156 seconds
+[2022-04-07 03:41:15,888] {processor.py:163} INFO - Started process (PID=913) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:41:15,891] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:41:15,893] {logging_mixin.py:109} INFO - [2022-04-07 03:41:15,892] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:41:15,943] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:41:15,993] {logging_mixin.py:109} INFO - [2022-04-07 03:41:15,992] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:41:16,040] {logging_mixin.py:109} INFO - [2022-04-07 03:41:16,040] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:39:16.039661+00:00
+[2022-04-07 03:41:16,061] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.180 seconds
+[2022-04-07 03:41:46,174] {processor.py:163} INFO - Started process (PID=973) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:41:46,177] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:41:46,178] {logging_mixin.py:109} INFO - [2022-04-07 03:41:46,178] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:41:46,226] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:41:46,290] {logging_mixin.py:109} INFO - [2022-04-07 03:41:46,290] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:41:46,373] {logging_mixin.py:109} INFO - [2022-04-07 03:41:46,372] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:39:46.372051+00:00
+[2022-04-07 03:41:46,388] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.222 seconds
+[2022-04-07 03:42:16,491] {processor.py:163} INFO - Started process (PID=1024) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:42:16,492] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:42:16,493] {logging_mixin.py:109} INFO - [2022-04-07 03:42:16,493] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:42:16,508] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:42:16,523] {logging_mixin.py:109} INFO - [2022-04-07 03:42:16,523] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:42:16,536] {logging_mixin.py:109} INFO - [2022-04-07 03:42:16,536] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:40:16.536627+00:00
+[2022-04-07 03:42:16,543] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.054 seconds
+[2022-04-07 03:42:46,625] {processor.py:163} INFO - Started process (PID=1084) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:42:46,627] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:42:46,627] {logging_mixin.py:109} INFO - [2022-04-07 03:42:46,627] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:42:46,640] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:42:46,657] {logging_mixin.py:109} INFO - [2022-04-07 03:42:46,657] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:42:46,671] {logging_mixin.py:109} INFO - [2022-04-07 03:42:46,671] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:40:46.671500+00:00
+[2022-04-07 03:42:46,679] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.056 seconds
+[2022-04-07 03:43:17,145] {processor.py:163} INFO - Started process (PID=1136) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:43:17,148] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:43:17,149] {logging_mixin.py:109} INFO - [2022-04-07 03:43:17,149] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:43:17,200] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:43:17,255] {logging_mixin.py:109} INFO - [2022-04-07 03:43:17,255] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:43:17,313] {logging_mixin.py:109} INFO - [2022-04-07 03:43:17,313] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:41:17.312387+00:00
+[2022-04-07 03:43:17,336] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.199 seconds
+[2022-04-07 03:43:47,878] {processor.py:163} INFO - Started process (PID=1196) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:43:47,881] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:43:47,883] {logging_mixin.py:109} INFO - [2022-04-07 03:43:47,882] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:43:47,935] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:43:47,993] {logging_mixin.py:109} INFO - [2022-04-07 03:43:47,993] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:43:48,047] {logging_mixin.py:109} INFO - [2022-04-07 03:43:48,047] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:41:48.046248+00:00
+[2022-04-07 03:43:48,070] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.200 seconds
+[2022-04-07 03:44:18,328] {processor.py:163} INFO - Started process (PID=1248) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:44:18,332] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:44:18,334] {logging_mixin.py:109} INFO - [2022-04-07 03:44:18,333] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:44:18,384] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:44:18,434] {logging_mixin.py:109} INFO - [2022-04-07 03:44:18,434] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:44:18,482] {logging_mixin.py:109} INFO - [2022-04-07 03:44:18,482] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:42:18.481686+00:00
+[2022-04-07 03:44:18,503] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.184 seconds
+[2022-04-07 03:44:48,675] {processor.py:163} INFO - Started process (PID=1309) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:44:48,676] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:44:48,677] {logging_mixin.py:109} INFO - [2022-04-07 03:44:48,676] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:44:48,690] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:44:48,708] {logging_mixin.py:109} INFO - [2022-04-07 03:44:48,708] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:44:48,727] {logging_mixin.py:109} INFO - [2022-04-07 03:44:48,727] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:42:48.727428+00:00
+[2022-04-07 03:44:48,735] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.063 seconds
+[2022-04-07 03:45:18,897] {processor.py:163} INFO - Started process (PID=1361) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:45:18,898] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:45:18,898] {logging_mixin.py:109} INFO - [2022-04-07 03:45:18,898] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:45:18,912] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:45:18,928] {logging_mixin.py:109} INFO - [2022-04-07 03:45:18,928] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:45:18,942] {logging_mixin.py:109} INFO - [2022-04-07 03:45:18,942] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:43:18.942174+00:00
+[2022-04-07 03:45:18,950] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.055 seconds
+[2022-04-07 03:45:49,470] {processor.py:163} INFO - Started process (PID=1422) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:45:49,473] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:45:49,474] {logging_mixin.py:109} INFO - [2022-04-07 03:45:49,474] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:45:49,533] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:45:49,591] {logging_mixin.py:109} INFO - [2022-04-07 03:45:49,590] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:45:49,647] {logging_mixin.py:109} INFO - [2022-04-07 03:45:49,646] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:43:49.646029+00:00
+[2022-04-07 03:45:49,665] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.204 seconds
+[2022-04-07 03:46:20,263] {processor.py:163} INFO - Started process (PID=1473) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:46:20,267] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:46:20,269] {logging_mixin.py:109} INFO - [2022-04-07 03:46:20,268] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:46:20,329] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:46:20,385] {logging_mixin.py:109} INFO - [2022-04-07 03:46:20,385] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:46:20,441] {logging_mixin.py:109} INFO - [2022-04-07 03:46:20,440] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:44:20.439599+00:00
+[2022-04-07 03:46:20,463] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.209 seconds
+[2022-04-07 03:46:50,855] {processor.py:163} INFO - Started process (PID=1538) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:46:50,857] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:46:50,858] {logging_mixin.py:109} INFO - [2022-04-07 03:46:50,858] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:46:50,873] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:46:50,894] {logging_mixin.py:109} INFO - [2022-04-07 03:46:50,894] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:46:50,911] {logging_mixin.py:109} INFO - [2022-04-07 03:46:50,911] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:44:50.910966+00:00
+[2022-04-07 03:46:50,919] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.066 seconds
+[2022-04-07 03:47:21,200] {processor.py:163} INFO - Started process (PID=1590) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:47:21,202] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:47:21,202] {logging_mixin.py:109} INFO - [2022-04-07 03:47:21,202] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:47:21,215] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:47:21,233] {logging_mixin.py:109} INFO - [2022-04-07 03:47:21,233] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:47:21,251] {logging_mixin.py:109} INFO - [2022-04-07 03:47:21,251] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:45:21.251138+00:00
+[2022-04-07 03:47:21,260] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.065 seconds
+[2022-04-07 03:47:51,526] {processor.py:163} INFO - Started process (PID=1650) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:47:51,527] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:47:51,528] {logging_mixin.py:109} INFO - [2022-04-07 03:47:51,528] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:47:51,541] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:47:51,560] {logging_mixin.py:109} INFO - [2022-04-07 03:47:51,560] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:47:51,578] {logging_mixin.py:109} INFO - [2022-04-07 03:47:51,578] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:45:51.578159+00:00
+[2022-04-07 03:47:51,586] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.062 seconds
+[2022-04-07 03:48:21,813] {processor.py:163} INFO - Started process (PID=1702) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:48:21,816] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:48:21,818] {logging_mixin.py:109} INFO - [2022-04-07 03:48:21,818] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:48:21,865] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:48:21,915] {logging_mixin.py:109} INFO - [2022-04-07 03:48:21,915] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:48:21,963] {logging_mixin.py:109} INFO - [2022-04-07 03:48:21,963] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:46:21.962534+00:00
+[2022-04-07 03:48:21,984] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.179 seconds
+[2022-04-07 03:48:52,151] {processor.py:163} INFO - Started process (PID=1763) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:48:52,153] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:48:52,153] {logging_mixin.py:109} INFO - [2022-04-07 03:48:52,153] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:48:52,167] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:48:52,184] {logging_mixin.py:109} INFO - [2022-04-07 03:48:52,184] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:48:52,199] {logging_mixin.py:109} INFO - [2022-04-07 03:48:52,199] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:46:52.199035+00:00
+[2022-04-07 03:48:52,206] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.057 seconds
+[2022-04-07 03:49:22,448] {processor.py:163} INFO - Started process (PID=1815) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:49:22,449] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:49:22,449] {logging_mixin.py:109} INFO - [2022-04-07 03:49:22,449] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:49:22,463] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:49:22,480] {logging_mixin.py:109} INFO - [2022-04-07 03:49:22,480] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:49:22,495] {logging_mixin.py:109} INFO - [2022-04-07 03:49:22,495] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:47:22.494969+00:00
+[2022-04-07 03:49:22,502] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.056 seconds
+[2022-04-07 03:49:52,555] {processor.py:163} INFO - Started process (PID=1876) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:49:52,556] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:49:52,557] {logging_mixin.py:109} INFO - [2022-04-07 03:49:52,557] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:49:52,571] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:49:52,588] {logging_mixin.py:109} INFO - [2022-04-07 03:49:52,588] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:49:52,604] {logging_mixin.py:109} INFO - [2022-04-07 03:49:52,604] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:47:52.604304+00:00
+[2022-04-07 03:49:52,612] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.059 seconds
+[2022-04-07 03:50:23,002] {processor.py:163} INFO - Started process (PID=1927) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:50:23,005] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:50:23,007] {logging_mixin.py:109} INFO - [2022-04-07 03:50:23,007] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:50:23,064] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:50:23,120] {logging_mixin.py:109} INFO - [2022-04-07 03:50:23,120] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:50:23,173] {logging_mixin.py:109} INFO - [2022-04-07 03:50:23,172] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:48:23.172160+00:00
+[2022-04-07 03:50:23,196] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.203 seconds
+[2022-04-07 03:50:53,415] {processor.py:163} INFO - Started process (PID=1986) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:50:53,416] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:50:53,416] {logging_mixin.py:109} INFO - [2022-04-07 03:50:53,416] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:50:53,430] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:50:53,450] {logging_mixin.py:109} INFO - [2022-04-07 03:50:53,450] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:50:53,470] {logging_mixin.py:109} INFO - [2022-04-07 03:50:53,470] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:48:53.469905+00:00
+[2022-04-07 03:50:53,479] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.066 seconds
+[2022-04-07 03:51:24,491] {processor.py:163} INFO - Started process (PID=2038) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:51:24,494] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:51:24,495] {logging_mixin.py:109} INFO - [2022-04-07 03:51:24,495] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:51:24,546] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:51:24,601] {logging_mixin.py:109} INFO - [2022-04-07 03:51:24,601] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:51:24,660] {logging_mixin.py:109} INFO - [2022-04-07 03:51:24,660] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:49:24.659911+00:00
+[2022-04-07 03:51:24,683] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.200 seconds
+[2022-04-07 03:51:55,115] {processor.py:163} INFO - Started process (PID=2100) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:51:55,116] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:51:55,116] {logging_mixin.py:109} INFO - [2022-04-07 03:51:55,116] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:51:55,130] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:51:55,149] {logging_mixin.py:109} INFO - [2022-04-07 03:51:55,149] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:51:55,164] {logging_mixin.py:109} INFO - [2022-04-07 03:51:55,164] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:49:55.164659+00:00
+[2022-04-07 03:51:55,172] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.059 seconds
+[2022-04-07 03:52:25,892] {processor.py:163} INFO - Started process (PID=2162) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:52:25,893] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:52:25,893] {logging_mixin.py:109} INFO - [2022-04-07 03:52:25,893] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:52:25,907] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:52:25,923] {logging_mixin.py:109} INFO - [2022-04-07 03:52:25,923] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:52:25,938] {logging_mixin.py:109} INFO - [2022-04-07 03:52:25,938] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:50:25.938623+00:00
+[2022-04-07 03:52:25,945] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.056 seconds
+[2022-04-07 03:52:56,316] {processor.py:163} INFO - Started process (PID=2215) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:52:56,319] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:52:56,320] {logging_mixin.py:109} INFO - [2022-04-07 03:52:56,320] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:52:56,369] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:52:56,422] {logging_mixin.py:109} INFO - [2022-04-07 03:52:56,422] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:52:56,470] {logging_mixin.py:109} INFO - [2022-04-07 03:52:56,470] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:50:56.469621+00:00
+[2022-04-07 03:52:56,490] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.184 seconds
+[2022-04-07 03:53:27,012] {processor.py:163} INFO - Started process (PID=2275) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:53:27,016] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:53:27,019] {logging_mixin.py:109} INFO - [2022-04-07 03:53:27,018] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:53:27,090] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:53:27,161] {logging_mixin.py:109} INFO - [2022-04-07 03:53:27,161] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:53:27,194] {logging_mixin.py:109} INFO - [2022-04-07 03:53:27,194] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:51:27.194319+00:00
+[2022-04-07 03:53:27,206] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.206 seconds
+[2022-04-07 03:53:57,814] {processor.py:163} INFO - Started process (PID=2327) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:53:57,817] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:53:57,818] {logging_mixin.py:109} INFO - [2022-04-07 03:53:57,818] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:53:57,873] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:53:57,931] {logging_mixin.py:109} INFO - [2022-04-07 03:53:57,931] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:53:58,003] {logging_mixin.py:109} INFO - [2022-04-07 03:53:58,003] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:51:58.002064+00:00
+[2022-04-07 03:53:58,032] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.227 seconds
+[2022-04-07 03:54:28,525] {processor.py:163} INFO - Started process (PID=2388) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:54:28,529] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:54:28,530] {logging_mixin.py:109} INFO - [2022-04-07 03:54:28,530] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:54:28,578] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:54:28,631] {logging_mixin.py:109} INFO - [2022-04-07 03:54:28,631] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:54:28,684] {logging_mixin.py:109} INFO - [2022-04-07 03:54:28,684] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:52:28.683896+00:00
+[2022-04-07 03:54:28,700] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.182 seconds
+[2022-04-07 03:54:59,323] {processor.py:163} INFO - Started process (PID=2439) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:54:59,326] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:54:59,328] {logging_mixin.py:109} INFO - [2022-04-07 03:54:59,328] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:54:59,375] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:54:59,428] {logging_mixin.py:109} INFO - [2022-04-07 03:54:59,428] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:54:59,479] {logging_mixin.py:109} INFO - [2022-04-07 03:54:59,479] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:52:59.478788+00:00
+[2022-04-07 03:54:59,500] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.185 seconds
+[2022-04-07 03:55:29,779] {processor.py:163} INFO - Started process (PID=2501) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:55:29,782] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:55:29,784] {logging_mixin.py:109} INFO - [2022-04-07 03:55:29,784] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:55:29,837] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:55:29,894] {logging_mixin.py:109} INFO - [2022-04-07 03:55:29,894] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:55:29,947] {logging_mixin.py:109} INFO - [2022-04-07 03:55:29,947] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:53:29.946237+00:00
+[2022-04-07 03:55:29,970] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.200 seconds
+[2022-04-07 03:56:00,450] {processor.py:163} INFO - Started process (PID=2553) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:56:00,452] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:56:00,453] {logging_mixin.py:109} INFO - [2022-04-07 03:56:00,452] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:56:00,471] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:56:00,488] {logging_mixin.py:109} INFO - [2022-04-07 03:56:00,488] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:56:00,504] {logging_mixin.py:109} INFO - [2022-04-07 03:56:00,503] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:54:00.503775+00:00
+[2022-04-07 03:56:00,511] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.064 seconds
+[2022-04-07 03:56:31,508] {processor.py:163} INFO - Started process (PID=2614) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:56:31,509] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:56:31,510] {logging_mixin.py:109} INFO - [2022-04-07 03:56:31,510] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:56:31,523] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:56:31,541] {logging_mixin.py:109} INFO - [2022-04-07 03:56:31,541] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:56:31,559] {logging_mixin.py:109} INFO - [2022-04-07 03:56:31,559] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:54:31.559303+00:00
+[2022-04-07 03:56:31,567] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.061 seconds
+[2022-04-07 03:57:02,505] {processor.py:163} INFO - Started process (PID=2674) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:57:02,506] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:57:02,506] {logging_mixin.py:109} INFO - [2022-04-07 03:57:02,506] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:57:02,520] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:57:02,539] {logging_mixin.py:109} INFO - [2022-04-07 03:57:02,539] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:57:02,559] {logging_mixin.py:109} INFO - [2022-04-07 03:57:02,558] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:55:02.558606+00:00
+[2022-04-07 03:57:02,567] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.065 seconds
+[2022-04-07 03:57:33,083] {processor.py:163} INFO - Started process (PID=2726) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:57:33,087] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:57:33,088] {logging_mixin.py:109} INFO - [2022-04-07 03:57:33,088] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:57:33,134] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:57:33,186] {logging_mixin.py:109} INFO - [2022-04-07 03:57:33,185] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:57:33,233] {logging_mixin.py:109} INFO - [2022-04-07 03:57:33,233] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:55:33.232857+00:00
+[2022-04-07 03:57:33,256] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.180 seconds
+[2022-04-07 03:58:03,981] {processor.py:163} INFO - Started process (PID=2787) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:58:03,982] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:58:03,983] {logging_mixin.py:109} INFO - [2022-04-07 03:58:03,983] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:58:03,996] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:58:04,011] {logging_mixin.py:109} INFO - [2022-04-07 03:58:04,011] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:58:04,025] {logging_mixin.py:109} INFO - [2022-04-07 03:58:04,025] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:56:04.025314+00:00
+[2022-04-07 03:58:04,032] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.053 seconds
+[2022-04-07 03:58:34,478] {processor.py:163} INFO - Started process (PID=2840) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:58:34,479] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:58:34,480] {logging_mixin.py:109} INFO - [2022-04-07 03:58:34,480] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:58:34,495] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:58:34,514] {logging_mixin.py:109} INFO - [2022-04-07 03:58:34,514] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:58:34,530] {logging_mixin.py:109} INFO - [2022-04-07 03:58:34,530] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:56:34.529740+00:00
+[2022-04-07 03:58:34,538] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.062 seconds
+[2022-04-07 03:59:04,931] {processor.py:163} INFO - Started process (PID=2900) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:59:04,934] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:59:04,935] {logging_mixin.py:109} INFO - [2022-04-07 03:59:04,935] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:59:04,982] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:59:05,039] {logging_mixin.py:109} INFO - [2022-04-07 03:59:05,039] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:59:05,083] {logging_mixin.py:109} INFO - [2022-04-07 03:59:05,083] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:57:05.082807+00:00
+[2022-04-07 03:59:05,094] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.171 seconds
+[2022-04-07 03:59:35,438] {processor.py:163} INFO - Started process (PID=2952) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:59:35,440] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 03:59:35,441] {logging_mixin.py:109} INFO - [2022-04-07 03:59:35,441] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:59:35,463] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 03:59:35,482] {logging_mixin.py:109} INFO - [2022-04-07 03:59:35,482] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 03:59:35,501] {logging_mixin.py:109} INFO - [2022-04-07 03:59:35,501] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:57:35.501393+00:00
+[2022-04-07 03:59:35,508] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.078 seconds
+[2022-04-07 04:00:06,163] {processor.py:163} INFO - Started process (PID=3013) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:00:06,164] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:00:06,164] {logging_mixin.py:109} INFO - [2022-04-07 04:00:06,164] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:00:06,178] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:00:06,195] {logging_mixin.py:109} INFO - [2022-04-07 04:00:06,195] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:00:06,208] {logging_mixin.py:109} INFO - [2022-04-07 04:00:06,208] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:58:06.208470+00:00
+[2022-04-07 04:00:06,215] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.054 seconds
+[2022-04-07 04:00:36,448] {processor.py:163} INFO - Started process (PID=3064) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:00:36,449] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:00:36,450] {logging_mixin.py:109} INFO - [2022-04-07 04:00:36,450] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:00:36,465] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:00:36,481] {logging_mixin.py:109} INFO - [2022-04-07 04:00:36,481] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:00:36,497] {logging_mixin.py:109} INFO - [2022-04-07 04:00:36,497] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:58:36.497621+00:00
+[2022-04-07 04:00:36,505] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.059 seconds
+[2022-04-07 04:01:06,642] {processor.py:163} INFO - Started process (PID=3127) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:01:06,646] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:01:06,647] {logging_mixin.py:109} INFO - [2022-04-07 04:01:06,647] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:01:06,660] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:01:06,678] {logging_mixin.py:109} INFO - [2022-04-07 04:01:06,678] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:01:06,697] {logging_mixin.py:109} INFO - [2022-04-07 04:01:06,697] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:59:06.697048+00:00
+[2022-04-07 04:01:06,704] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.064 seconds
+[2022-04-07 04:01:37,027] {processor.py:163} INFO - Started process (PID=3178) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:01:37,028] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:01:37,029] {logging_mixin.py:109} INFO - [2022-04-07 04:01:37,028] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:01:37,042] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:01:37,058] {logging_mixin.py:109} INFO - [2022-04-07 04:01:37,058] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:01:37,072] {logging_mixin.py:109} INFO - [2022-04-07 04:01:37,072] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T03:59:37.072435+00:00
+[2022-04-07 04:01:37,079] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.055 seconds
+[2022-04-07 04:02:07,480] {processor.py:163} INFO - Started process (PID=3238) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:02:07,482] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:02:07,482] {logging_mixin.py:109} INFO - [2022-04-07 04:02:07,482] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:02:07,495] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:02:07,513] {logging_mixin.py:109} INFO - [2022-04-07 04:02:07,513] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:02:07,601] {logging_mixin.py:109} INFO - [2022-04-07 04:02:07,601] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:00:07.601530+00:00
+[2022-04-07 04:02:07,609] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.131 seconds
+[2022-04-07 04:02:38,432] {processor.py:163} INFO - Started process (PID=3290) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:02:38,436] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:02:38,438] {logging_mixin.py:109} INFO - [2022-04-07 04:02:38,438] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:02:38,461] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:02:38,505] {logging_mixin.py:109} INFO - [2022-04-07 04:02:38,505] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:02:38,601] {logging_mixin.py:109} INFO - [2022-04-07 04:02:38,601] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:00:38.601346+00:00
+[2022-04-07 04:02:38,607] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.186 seconds
+[2022-04-07 04:03:08,679] {processor.py:163} INFO - Started process (PID=3350) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:03:08,680] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:03:08,680] {logging_mixin.py:109} INFO - [2022-04-07 04:03:08,680] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:03:08,694] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:03:08,714] {logging_mixin.py:109} INFO - [2022-04-07 04:03:08,714] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:03:08,808] {logging_mixin.py:109} INFO - [2022-04-07 04:03:08,808] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:01:08.808345+00:00
+[2022-04-07 04:03:08,816] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.140 seconds
+[2022-04-07 04:03:39,564] {processor.py:163} INFO - Started process (PID=3410) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:03:39,565] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:03:39,565] {logging_mixin.py:109} INFO - [2022-04-07 04:03:39,565] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:03:39,579] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:03:39,677] {logging_mixin.py:109} INFO - [2022-04-07 04:03:39,677] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:03:39,690] {logging_mixin.py:109} INFO - [2022-04-07 04:03:39,690] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:01:39.690365+00:00
+[2022-04-07 04:03:39,697] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.136 seconds
+[2022-04-07 04:04:09,983] {processor.py:163} INFO - Started process (PID=3461) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:04:09,985] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:04:09,985] {logging_mixin.py:109} INFO - [2022-04-07 04:04:09,985] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:04:10,078] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:04:10,092] {logging_mixin.py:109} INFO - [2022-04-07 04:04:10,092] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:04:10,106] {logging_mixin.py:109} INFO - [2022-04-07 04:04:10,106] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:02:10.106154+00:00
+[2022-04-07 04:04:10,112] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.131 seconds
+[2022-04-07 04:04:41,101] {processor.py:163} INFO - Started process (PID=3521) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:04:41,103] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:04:41,103] {logging_mixin.py:109} INFO - [2022-04-07 04:04:41,103] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:04:41,192] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:04:41,208] {logging_mixin.py:109} INFO - [2022-04-07 04:04:41,208] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:04:41,224] {logging_mixin.py:109} INFO - [2022-04-07 04:04:41,224] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:02:41.224429+00:00
+[2022-04-07 04:04:41,232] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.133 seconds
+[2022-04-07 04:05:11,888] {processor.py:163} INFO - Started process (PID=3573) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:05:11,890] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:05:11,890] {logging_mixin.py:109} INFO - [2022-04-07 04:05:11,890] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:05:11,981] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:05:11,995] {logging_mixin.py:109} INFO - [2022-04-07 04:05:11,994] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:05:12,009] {logging_mixin.py:109} INFO - [2022-04-07 04:05:12,009] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:03:12.008842+00:00
+[2022-04-07 04:05:12,015] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.129 seconds
+[2022-04-07 04:05:42,530] {processor.py:163} INFO - Started process (PID=3634) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:05:42,531] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:05:42,532] {logging_mixin.py:109} INFO - [2022-04-07 04:05:42,532] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:05:42,622] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:05:42,637] {logging_mixin.py:109} INFO - [2022-04-07 04:05:42,636] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:05:42,650] {logging_mixin.py:109} INFO - [2022-04-07 04:05:42,650] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:03:42.650183+00:00
+[2022-04-07 04:05:42,657] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.129 seconds
+[2022-04-07 04:06:13,157] {processor.py:163} INFO - Started process (PID=3686) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:06:13,158] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:06:13,159] {logging_mixin.py:109} INFO - [2022-04-07 04:06:13,159] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:06:13,258] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:06:13,272] {logging_mixin.py:109} INFO - [2022-04-07 04:06:13,272] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:06:13,286] {logging_mixin.py:109} INFO - [2022-04-07 04:06:13,286] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:04:13.286382+00:00
+[2022-04-07 04:06:13,294] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.141 seconds
+[2022-04-07 04:06:43,611] {processor.py:163} INFO - Started process (PID=3749) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:06:43,613] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:06:43,614] {logging_mixin.py:109} INFO - [2022-04-07 04:06:43,614] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:06:43,723] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:06:43,738] {logging_mixin.py:109} INFO - [2022-04-07 04:06:43,738] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:06:43,753] {logging_mixin.py:109} INFO - [2022-04-07 04:06:43,753] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:04:43.753493+00:00
+[2022-04-07 04:06:43,760] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.156 seconds
+[2022-04-07 04:07:14,115] {processor.py:163} INFO - Started process (PID=3802) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:07:14,116] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:07:14,117] {logging_mixin.py:109} INFO - [2022-04-07 04:07:14,117] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:07:14,232] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:07:14,249] {logging_mixin.py:109} INFO - [2022-04-07 04:07:14,249] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:07:14,264] {logging_mixin.py:109} INFO - [2022-04-07 04:07:14,264] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:05:14.264625+00:00
+[2022-04-07 04:07:14,271] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.158 seconds
+[2022-04-07 04:07:44,514] {processor.py:163} INFO - Started process (PID=3863) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:07:44,515] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:07:44,516] {logging_mixin.py:109} INFO - [2022-04-07 04:07:44,516] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:07:44,638] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:07:44,655] {logging_mixin.py:109} INFO - [2022-04-07 04:07:44,655] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:07:44,674] {logging_mixin.py:109} INFO - [2022-04-07 04:07:44,673] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:05:44.673665+00:00
+[2022-04-07 04:07:44,682] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.171 seconds
+[2022-04-07 04:08:14,728] {processor.py:163} INFO - Started process (PID=3914) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:08:14,732] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:08:14,733] {logging_mixin.py:109} INFO - [2022-04-07 04:08:14,733] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:08:14,756] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:08:14,774] {logging_mixin.py:109} INFO - [2022-04-07 04:08:14,774] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:08:14,789] {logging_mixin.py:109} INFO - [2022-04-07 04:08:14,789] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:06:14.789013+00:00
+[2022-04-07 04:08:14,796] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.078 seconds
+[2022-04-07 04:08:45,381] {processor.py:163} INFO - Started process (PID=3974) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:08:45,382] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:08:45,383] {logging_mixin.py:109} INFO - [2022-04-07 04:08:45,383] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:08:45,396] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:08:45,411] {logging_mixin.py:109} INFO - [2022-04-07 04:08:45,411] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:08:45,425] {logging_mixin.py:109} INFO - [2022-04-07 04:08:45,425] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:06:45.424960+00:00
+[2022-04-07 04:08:45,432] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.053 seconds
+[2022-04-07 04:09:15,993] {processor.py:163} INFO - Started process (PID=4034) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:09:15,994] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:09:15,995] {logging_mixin.py:109} INFO - [2022-04-07 04:09:15,995] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:09:16,008] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:09:16,026] {logging_mixin.py:109} INFO - [2022-04-07 04:09:16,026] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:09:16,043] {logging_mixin.py:109} INFO - [2022-04-07 04:09:16,043] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:07:16.043371+00:00
+[2022-04-07 04:09:16,051] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.060 seconds
+[2022-04-07 04:09:46,568] {processor.py:163} INFO - Started process (PID=4085) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:09:46,570] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:09:46,570] {logging_mixin.py:109} INFO - [2022-04-07 04:09:46,570] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:09:46,588] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:09:46,606] {logging_mixin.py:109} INFO - [2022-04-07 04:09:46,606] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:09:46,619] {logging_mixin.py:109} INFO - [2022-04-07 04:09:46,619] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:07:46.618908+00:00
+[2022-04-07 04:09:46,626] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.060 seconds
+[2022-04-07 04:10:17,068] {processor.py:163} INFO - Started process (PID=4145) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:10:17,069] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:10:17,069] {logging_mixin.py:109} INFO - [2022-04-07 04:10:17,069] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:10:17,082] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:10:17,099] {logging_mixin.py:109} INFO - [2022-04-07 04:10:17,098] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:10:17,115] {logging_mixin.py:109} INFO - [2022-04-07 04:10:17,115] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:08:17.115223+00:00
+[2022-04-07 04:10:17,122] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.056 seconds
+[2022-04-07 04:10:47,663] {processor.py:163} INFO - Started process (PID=4197) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:10:47,664] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:10:47,664] {logging_mixin.py:109} INFO - [2022-04-07 04:10:47,664] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:10:47,677] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:10:47,695] {logging_mixin.py:109} INFO - [2022-04-07 04:10:47,694] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:10:47,712] {logging_mixin.py:109} INFO - [2022-04-07 04:10:47,712] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:08:47.712580+00:00
+[2022-04-07 04:10:47,720] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.059 seconds
+[2022-04-07 04:11:18,421] {processor.py:163} INFO - Started process (PID=4258) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:11:18,424] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:11:18,426] {logging_mixin.py:109} INFO - [2022-04-07 04:11:18,425] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:11:18,451] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:11:18,467] {logging_mixin.py:109} INFO - [2022-04-07 04:11:18,467] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:11:18,482] {logging_mixin.py:109} INFO - [2022-04-07 04:11:18,482] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:09:18.482073+00:00
+[2022-04-07 04:11:18,489] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.076 seconds
+[2022-04-07 04:11:48,987] {processor.py:163} INFO - Started process (PID=4309) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:11:48,989] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:11:48,990] {logging_mixin.py:109} INFO - [2022-04-07 04:11:48,990] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:11:49,008] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:11:49,039] {logging_mixin.py:109} INFO - [2022-04-07 04:11:49,039] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:11:49,057] {logging_mixin.py:109} INFO - [2022-04-07 04:11:49,057] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:09:49.057315+00:00
+[2022-04-07 04:11:49,065] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.082 seconds
+[2022-04-07 04:12:19,687] {processor.py:163} INFO - Started process (PID=4369) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:12:19,688] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:12:19,688] {logging_mixin.py:109} INFO - [2022-04-07 04:12:19,688] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:12:19,701] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:12:19,720] {logging_mixin.py:109} INFO - [2022-04-07 04:12:19,720] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:12:19,739] {logging_mixin.py:109} INFO - [2022-04-07 04:12:19,738] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:10:19.738677+00:00
+[2022-04-07 04:12:19,748] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.064 seconds
+[2022-04-07 04:12:50,395] {processor.py:163} INFO - Started process (PID=4429) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:12:50,396] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:12:50,396] {logging_mixin.py:109} INFO - [2022-04-07 04:12:50,396] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:12:50,409] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:12:50,427] {logging_mixin.py:109} INFO - [2022-04-07 04:12:50,426] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:12:50,442] {logging_mixin.py:109} INFO - [2022-04-07 04:12:50,442] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:10:50.441986+00:00
+[2022-04-07 04:12:50,449] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.056 seconds
+[2022-04-07 04:13:21,138] {processor.py:163} INFO - Started process (PID=4480) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:13:21,140] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:13:21,140] {logging_mixin.py:109} INFO - [2022-04-07 04:13:21,140] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:13:21,153] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:13:21,168] {logging_mixin.py:109} INFO - [2022-04-07 04:13:21,168] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:13:21,182] {logging_mixin.py:109} INFO - [2022-04-07 04:13:21,182] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:11:21.182660+00:00
+[2022-04-07 04:13:21,189] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.057 seconds
+[2022-04-07 04:13:51,820] {processor.py:163} INFO - Started process (PID=4541) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:13:51,821] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:13:51,821] {logging_mixin.py:109} INFO - [2022-04-07 04:13:51,821] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:13:51,834] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:13:51,850] {logging_mixin.py:109} INFO - [2022-04-07 04:13:51,850] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:13:51,864] {logging_mixin.py:109} INFO - [2022-04-07 04:13:51,864] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:11:51.864117+00:00
+[2022-04-07 04:13:51,871] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.054 seconds
+[2022-04-07 04:14:22,454] {processor.py:163} INFO - Started process (PID=4592) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:14:22,455] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:14:22,455] {logging_mixin.py:109} INFO - [2022-04-07 04:14:22,455] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:14:22,468] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:14:22,483] {logging_mixin.py:109} INFO - [2022-04-07 04:14:22,483] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:14:22,498] {logging_mixin.py:109} INFO - [2022-04-07 04:14:22,498] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:12:22.498280+00:00
+[2022-04-07 04:14:22,505] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.053 seconds
+[2022-04-07 04:14:53,048] {processor.py:163} INFO - Started process (PID=4653) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:14:53,049] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:14:53,049] {logging_mixin.py:109} INFO - [2022-04-07 04:14:53,049] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:14:53,062] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:14:53,079] {logging_mixin.py:109} INFO - [2022-04-07 04:14:53,079] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:14:53,094] {logging_mixin.py:109} INFO - [2022-04-07 04:14:53,094] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:12:53.094497+00:00
+[2022-04-07 04:14:53,102] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.057 seconds
+[2022-04-07 04:15:23,651] {processor.py:163} INFO - Started process (PID=4715) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:15:23,652] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:15:23,652] {logging_mixin.py:109} INFO - [2022-04-07 04:15:23,652] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:15:23,666] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:15:23,685] {logging_mixin.py:109} INFO - [2022-04-07 04:15:23,685] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:15:23,704] {logging_mixin.py:109} INFO - [2022-04-07 04:15:23,704] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:13:23.704411+00:00
+[2022-04-07 04:15:23,713] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.065 seconds
+[2022-04-07 04:15:54,264] {processor.py:163} INFO - Started process (PID=4767) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:15:54,265] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:15:54,265] {logging_mixin.py:109} INFO - [2022-04-07 04:15:54,265] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:15:54,278] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:15:54,295] {logging_mixin.py:109} INFO - [2022-04-07 04:15:54,295] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:15:54,312] {logging_mixin.py:109} INFO - [2022-04-07 04:15:54,312] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:13:54.311799+00:00
+[2022-04-07 04:15:54,319] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.060 seconds
+[2022-04-07 04:16:24,857] {processor.py:163} INFO - Started process (PID=4827) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:16:24,859] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:16:24,859] {logging_mixin.py:109} INFO - [2022-04-07 04:16:24,859] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:16:24,872] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:16:24,889] {logging_mixin.py:109} INFO - [2022-04-07 04:16:24,889] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:16:24,903] {logging_mixin.py:109} INFO - [2022-04-07 04:16:24,903] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:14:24.903022+00:00
+[2022-04-07 04:16:24,910] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.055 seconds
+[2022-04-07 04:16:55,430] {processor.py:163} INFO - Started process (PID=4878) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:16:55,431] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:16:55,432] {logging_mixin.py:109} INFO - [2022-04-07 04:16:55,432] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:16:55,445] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:16:55,461] {logging_mixin.py:109} INFO - [2022-04-07 04:16:55,460] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:16:55,474] {logging_mixin.py:109} INFO - [2022-04-07 04:16:55,474] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:14:55.474074+00:00
+[2022-04-07 04:16:55,481] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.053 seconds
+[2022-04-07 04:17:26,009] {processor.py:163} INFO - Started process (PID=4939) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:17:26,010] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:17:26,011] {logging_mixin.py:109} INFO - [2022-04-07 04:17:26,011] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:17:26,024] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:17:26,041] {logging_mixin.py:109} INFO - [2022-04-07 04:17:26,041] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:17:26,056] {logging_mixin.py:109} INFO - [2022-04-07 04:17:26,056] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:15:26.056043+00:00
+[2022-04-07 04:17:26,063] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.056 seconds
+[2022-04-07 04:17:56,463] {processor.py:163} INFO - Started process (PID=4990) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:17:56,464] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:17:56,465] {logging_mixin.py:109} INFO - [2022-04-07 04:17:56,465] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:17:56,479] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:17:56,496] {logging_mixin.py:109} INFO - [2022-04-07 04:17:56,496] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:17:56,509] {logging_mixin.py:109} INFO - [2022-04-07 04:17:56,509] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:15:56.509648+00:00
+[2022-04-07 04:17:56,517] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.056 seconds
+[2022-04-07 04:18:27,015] {processor.py:163} INFO - Started process (PID=5051) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:18:27,016] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:18:27,016] {logging_mixin.py:109} INFO - [2022-04-07 04:18:27,016] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:18:27,030] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:18:27,046] {logging_mixin.py:109} INFO - [2022-04-07 04:18:27,046] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:18:27,061] {logging_mixin.py:109} INFO - [2022-04-07 04:18:27,061] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:16:27.061197+00:00
+[2022-04-07 04:18:27,068] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.056 seconds
+[2022-04-07 04:18:57,670] {processor.py:163} INFO - Started process (PID=5112) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:18:57,671] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:18:57,672] {logging_mixin.py:109} INFO - [2022-04-07 04:18:57,672] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:18:57,687] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:18:57,704] {logging_mixin.py:109} INFO - [2022-04-07 04:18:57,704] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:18:57,719] {logging_mixin.py:109} INFO - [2022-04-07 04:18:57,719] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:16:57.719164+00:00
+[2022-04-07 04:18:57,727] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.059 seconds
+[2022-04-07 04:19:28,459] {processor.py:163} INFO - Started process (PID=5163) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:19:28,460] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:19:28,460] {logging_mixin.py:109} INFO - [2022-04-07 04:19:28,460] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:19:28,473] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:19:28,489] {logging_mixin.py:109} INFO - [2022-04-07 04:19:28,489] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:19:28,503] {logging_mixin.py:109} INFO - [2022-04-07 04:19:28,503] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:17:28.503531+00:00
+[2022-04-07 04:19:28,510] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.053 seconds
+[2022-04-07 04:19:59,266] {processor.py:163} INFO - Started process (PID=5224) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:19:59,267] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:19:59,268] {logging_mixin.py:109} INFO - [2022-04-07 04:19:59,268] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:19:59,283] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:19:59,302] {logging_mixin.py:109} INFO - [2022-04-07 04:19:59,301] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:19:59,321] {logging_mixin.py:109} INFO - [2022-04-07 04:19:59,321] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:17:59.320856+00:00
+[2022-04-07 04:19:59,330] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.066 seconds
+[2022-04-07 04:20:30,052] {processor.py:163} INFO - Started process (PID=5275) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:20:30,054] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:20:30,054] {logging_mixin.py:109} INFO - [2022-04-07 04:20:30,054] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:20:30,071] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:20:30,090] {logging_mixin.py:109} INFO - [2022-04-07 04:20:30,090] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:20:30,106] {logging_mixin.py:109} INFO - [2022-04-07 04:20:30,106] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:18:30.105970+00:00
+[2022-04-07 04:20:30,114] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.067 seconds
+[2022-04-07 04:21:00,807] {processor.py:163} INFO - Started process (PID=5336) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:21:00,808] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:21:00,809] {logging_mixin.py:109} INFO - [2022-04-07 04:21:00,809] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:21:00,822] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:21:00,838] {logging_mixin.py:109} INFO - [2022-04-07 04:21:00,838] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:21:00,852] {logging_mixin.py:109} INFO - [2022-04-07 04:21:00,852] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:19:00.852087+00:00
+[2022-04-07 04:21:00,859] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.054 seconds
+[2022-04-07 04:21:31,562] {processor.py:163} INFO - Started process (PID=5387) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:21:31,563] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:21:31,564] {logging_mixin.py:109} INFO - [2022-04-07 04:21:31,563] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:21:31,577] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:21:31,593] {logging_mixin.py:109} INFO - [2022-04-07 04:21:31,592] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:21:31,606] {logging_mixin.py:109} INFO - [2022-04-07 04:21:31,606] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:19:31.606238+00:00
+[2022-04-07 04:21:31,614] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.054 seconds
+[2022-04-07 04:22:02,241] {processor.py:163} INFO - Started process (PID=5448) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:22:02,247] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:22:02,248] {logging_mixin.py:109} INFO - [2022-04-07 04:22:02,248] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:22:02,268] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:22:02,318] {logging_mixin.py:109} INFO - [2022-04-07 04:22:02,318] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:22:02,337] {logging_mixin.py:109} INFO - [2022-04-07 04:22:02,337] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:20:02.337540+00:00
+[2022-04-07 04:22:02,346] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.116 seconds
+[2022-04-07 04:22:32,791] {processor.py:163} INFO - Started process (PID=5508) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:22:32,792] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:22:32,793] {logging_mixin.py:109} INFO - [2022-04-07 04:22:32,793] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:22:32,806] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:22:32,823] {logging_mixin.py:109} INFO - [2022-04-07 04:22:32,823] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:22:32,838] {logging_mixin.py:109} INFO - [2022-04-07 04:22:32,838] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:20:32.838199+00:00
+[2022-04-07 04:22:32,845] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.057 seconds
+[2022-04-07 04:23:03,508] {processor.py:163} INFO - Started process (PID=5560) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:23:03,510] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:23:03,510] {logging_mixin.py:109} INFO - [2022-04-07 04:23:03,510] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:23:03,524] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:23:03,541] {logging_mixin.py:109} INFO - [2022-04-07 04:23:03,541] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:23:03,557] {logging_mixin.py:109} INFO - [2022-04-07 04:23:03,557] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:21:03.557059+00:00
+[2022-04-07 04:23:03,565] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.060 seconds
+[2022-04-07 04:23:34,199] {processor.py:163} INFO - Started process (PID=5621) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:23:34,200] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:23:34,200] {logging_mixin.py:109} INFO - [2022-04-07 04:23:34,200] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:23:34,214] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:23:34,229] {logging_mixin.py:109} INFO - [2022-04-07 04:23:34,229] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:23:34,244] {logging_mixin.py:109} INFO - [2022-04-07 04:23:34,244] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:21:34.244293+00:00
+[2022-04-07 04:23:34,251] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.055 seconds
+[2022-04-07 04:24:04,954] {processor.py:163} INFO - Started process (PID=5672) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:24:04,956] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:24:04,957] {logging_mixin.py:109} INFO - [2022-04-07 04:24:04,957] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:24:04,981] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:24:04,998] {logging_mixin.py:109} INFO - [2022-04-07 04:24:04,998] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:24:05,015] {logging_mixin.py:109} INFO - [2022-04-07 04:24:05,015] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:22:05.014881+00:00
+[2022-04-07 04:24:05,022] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.077 seconds
+[2022-04-07 04:24:35,101] {processor.py:163} INFO - Started process (PID=5733) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:24:35,104] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:24:35,105] {logging_mixin.py:109} INFO - [2022-04-07 04:24:35,105] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:24:35,127] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:24:35,148] {logging_mixin.py:109} INFO - [2022-04-07 04:24:35,148] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:24:35,166] {logging_mixin.py:109} INFO - [2022-04-07 04:24:35,166] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:22:35.166092+00:00
+[2022-04-07 04:24:35,175] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.082 seconds
+[2022-04-07 04:25:05,253] {processor.py:163} INFO - Started process (PID=5785) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:25:05,254] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:25:05,255] {logging_mixin.py:109} INFO - [2022-04-07 04:25:05,255] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:25:05,277] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:25:05,298] {logging_mixin.py:109} INFO - [2022-04-07 04:25:05,298] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:25:05,316] {logging_mixin.py:109} INFO - [2022-04-07 04:25:05,316] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:23:05.316522+00:00
+[2022-04-07 04:25:05,327] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.077 seconds
+[2022-04-07 04:25:35,413] {processor.py:163} INFO - Started process (PID=5846) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:25:35,414] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:25:35,415] {logging_mixin.py:109} INFO - [2022-04-07 04:25:35,415] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:25:35,428] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:25:35,444] {logging_mixin.py:109} INFO - [2022-04-07 04:25:35,444] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:25:35,459] {logging_mixin.py:109} INFO - [2022-04-07 04:25:35,459] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:23:35.458809+00:00
+[2022-04-07 04:25:35,466] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.055 seconds
+[2022-04-07 04:26:05,703] {processor.py:163} INFO - Started process (PID=5892) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:26:05,704] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:26:05,705] {logging_mixin.py:109} INFO - [2022-04-07 04:26:05,705] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:26:05,720] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:26:05,741] {logging_mixin.py:109} INFO - [2022-04-07 04:26:05,741] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:26:05,759] {logging_mixin.py:109} INFO - [2022-04-07 04:26:05,758] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:24:05.758719+00:00
+[2022-04-07 04:26:05,767] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.066 seconds
+[2022-04-07 04:26:36,531] {processor.py:163} INFO - Started process (PID=5954) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:26:36,534] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:26:36,536] {logging_mixin.py:109} INFO - [2022-04-07 04:26:36,536] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:26:36,561] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:26:36,579] {logging_mixin.py:109} INFO - [2022-04-07 04:26:36,579] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:26:36,594] {logging_mixin.py:109} INFO - [2022-04-07 04:26:36,594] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:24:36.593987+00:00
+[2022-04-07 04:26:36,601] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.081 seconds
+[2022-04-07 04:27:07,555] {processor.py:163} INFO - Started process (PID=6005) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:27:07,556] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:27:07,557] {logging_mixin.py:109} INFO - [2022-04-07 04:27:07,557] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:27:07,573] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:27:07,591] {logging_mixin.py:109} INFO - [2022-04-07 04:27:07,591] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:27:07,607] {logging_mixin.py:109} INFO - [2022-04-07 04:27:07,607] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:25:07.607257+00:00
+[2022-04-07 04:27:07,614] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.062 seconds
+[2022-04-07 04:27:37,717] {processor.py:163} INFO - Started process (PID=6066) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:27:37,719] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:27:37,719] {logging_mixin.py:109} INFO - [2022-04-07 04:27:37,719] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:27:37,740] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:27:37,776] {logging_mixin.py:109} INFO - [2022-04-07 04:27:37,776] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:27:37,791] {logging_mixin.py:109} INFO - [2022-04-07 04:27:37,791] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:25:37.791363+00:00
+[2022-04-07 04:27:37,800] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.086 seconds
+[2022-04-07 04:28:07,889] {processor.py:163} INFO - Started process (PID=6117) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:28:07,890] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:28:07,891] {logging_mixin.py:109} INFO - [2022-04-07 04:28:07,891] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:28:07,907] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:28:07,926] {logging_mixin.py:109} INFO - [2022-04-07 04:28:07,926] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:28:07,941] {logging_mixin.py:109} INFO - [2022-04-07 04:28:07,941] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:26:07.941230+00:00
+[2022-04-07 04:28:07,947] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.061 seconds
+[2022-04-07 04:28:37,995] {processor.py:163} INFO - Started process (PID=6179) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:28:37,997] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:28:37,997] {logging_mixin.py:109} INFO - [2022-04-07 04:28:37,997] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:28:38,018] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:28:38,040] {logging_mixin.py:109} INFO - [2022-04-07 04:28:38,040] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:28:38,063] {logging_mixin.py:109} INFO - [2022-04-07 04:28:38,063] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:26:38.063310+00:00
+[2022-04-07 04:28:38,074] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.082 seconds
+[2022-04-07 04:29:08,143] {processor.py:163} INFO - Started process (PID=6231) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:29:08,144] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:29:08,145] {logging_mixin.py:109} INFO - [2022-04-07 04:29:08,145] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:29:08,163] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:29:08,182] {logging_mixin.py:109} INFO - [2022-04-07 04:29:08,182] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:29:08,199] {logging_mixin.py:109} INFO - [2022-04-07 04:29:08,199] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:27:08.199258+00:00
+[2022-04-07 04:29:08,207] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.067 seconds
+[2022-04-07 04:29:38,905] {processor.py:163} INFO - Started process (PID=6291) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:29:38,907] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:29:38,907] {logging_mixin.py:109} INFO - [2022-04-07 04:29:38,907] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:29:38,921] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:29:38,941] {logging_mixin.py:109} INFO - [2022-04-07 04:29:38,940] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:29:38,960] {logging_mixin.py:109} INFO - [2022-04-07 04:29:38,960] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:27:38.960127+00:00
+[2022-04-07 04:29:38,967] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.064 seconds
+[2022-04-07 04:30:09,661] {processor.py:163} INFO - Started process (PID=6342) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:30:09,663] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:30:09,663] {logging_mixin.py:109} INFO - [2022-04-07 04:30:09,663] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:30:09,682] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:30:09,702] {logging_mixin.py:109} INFO - [2022-04-07 04:30:09,702] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:30:09,721] {logging_mixin.py:109} INFO - [2022-04-07 04:30:09,721] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:28:09.721296+00:00
+[2022-04-07 04:30:09,728] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.069 seconds
+[2022-04-07 04:30:40,485] {processor.py:163} INFO - Started process (PID=6403) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:30:40,487] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:30:40,488] {logging_mixin.py:109} INFO - [2022-04-07 04:30:40,488] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:30:40,508] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:30:40,527] {logging_mixin.py:109} INFO - [2022-04-07 04:30:40,527] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:30:40,554] {logging_mixin.py:109} INFO - [2022-04-07 04:30:40,554] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:28:40.553744+00:00
+[2022-04-07 04:30:40,565] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.083 seconds
+[2022-04-07 04:31:11,286] {processor.py:163} INFO - Started process (PID=6454) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:31:11,288] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:31:11,289] {logging_mixin.py:109} INFO - [2022-04-07 04:31:11,289] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:31:11,308] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:31:11,332] {logging_mixin.py:109} INFO - [2022-04-07 04:31:11,332] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:31:11,350] {logging_mixin.py:109} INFO - [2022-04-07 04:31:11,350] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:29:11.349885+00:00
+[2022-04-07 04:31:11,358] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.075 seconds
+[2022-04-07 04:31:41,496] {processor.py:163} INFO - Started process (PID=6515) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:31:41,500] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:31:41,502] {logging_mixin.py:109} INFO - [2022-04-07 04:31:41,501] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:31:41,561] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:31:41,634] {logging_mixin.py:109} INFO - [2022-04-07 04:31:41,634] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:31:41,709] {logging_mixin.py:109} INFO - [2022-04-07 04:31:41,709] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:29:41.708879+00:00
+[2022-04-07 04:31:41,737] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.250 seconds
+[2022-04-07 04:32:12,045] {processor.py:163} INFO - Started process (PID=6566) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:32:12,046] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:32:12,047] {logging_mixin.py:109} INFO - [2022-04-07 04:32:12,047] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:32:12,062] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:32:12,081] {logging_mixin.py:109} INFO - [2022-04-07 04:32:12,081] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:32:12,101] {logging_mixin.py:109} INFO - [2022-04-07 04:32:12,101] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:30:12.101480+00:00
+[2022-04-07 04:32:12,111] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.068 seconds
+[2022-04-07 04:32:42,227] {processor.py:163} INFO - Started process (PID=6617) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:32:42,230] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:32:42,231] {logging_mixin.py:109} INFO - [2022-04-07 04:32:42,231] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:32:42,252] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:32:42,271] {logging_mixin.py:109} INFO - [2022-04-07 04:32:42,271] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:32:42,285] {logging_mixin.py:109} INFO - [2022-04-07 04:32:42,285] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:30:42.284709+00:00
+[2022-04-07 04:32:42,293] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.074 seconds
+[2022-04-07 04:33:12,571] {processor.py:163} INFO - Started process (PID=6677) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:33:12,573] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:33:12,573] {logging_mixin.py:109} INFO - [2022-04-07 04:33:12,573] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:33:12,588] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:33:12,604] {logging_mixin.py:109} INFO - [2022-04-07 04:33:12,604] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:33:12,620] {logging_mixin.py:109} INFO - [2022-04-07 04:33:12,620] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:31:12.620443+00:00
+[2022-04-07 04:33:12,628] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.059 seconds
+[2022-04-07 04:33:42,662] {processor.py:163} INFO - Started process (PID=6728) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:33:42,664] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:33:42,664] {logging_mixin.py:109} INFO - [2022-04-07 04:33:42,664] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:33:42,678] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:33:42,697] {logging_mixin.py:109} INFO - [2022-04-07 04:33:42,697] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:33:42,712] {logging_mixin.py:109} INFO - [2022-04-07 04:33:42,712] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:31:42.712696+00:00
+[2022-04-07 04:33:42,720] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.060 seconds
+[2022-04-07 04:34:12,978] {processor.py:163} INFO - Started process (PID=6788) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:34:12,980] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:34:12,980] {logging_mixin.py:109} INFO - [2022-04-07 04:34:12,980] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:34:12,997] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:34:13,016] {logging_mixin.py:109} INFO - [2022-04-07 04:34:13,016] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:34:13,033] {logging_mixin.py:109} INFO - [2022-04-07 04:34:13,033] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:32:13.033028+00:00
+[2022-04-07 04:34:13,040] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.065 seconds
+[2022-04-07 04:34:43,078] {processor.py:163} INFO - Started process (PID=6840) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:34:43,080] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:34:43,081] {logging_mixin.py:109} INFO - [2022-04-07 04:34:43,080] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:34:43,096] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:34:43,112] {logging_mixin.py:109} INFO - [2022-04-07 04:34:43,112] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:34:43,126] {logging_mixin.py:109} INFO - [2022-04-07 04:34:43,126] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:32:43.125991+00:00
+[2022-04-07 04:34:43,132] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.057 seconds
+[2022-04-07 04:35:13,700] {processor.py:163} INFO - Started process (PID=6900) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:35:13,701] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:35:13,702] {logging_mixin.py:109} INFO - [2022-04-07 04:35:13,702] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:35:13,719] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:35:13,735] {logging_mixin.py:109} INFO - [2022-04-07 04:35:13,735] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:35:13,748] {logging_mixin.py:109} INFO - [2022-04-07 04:35:13,748] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:33:13.748501+00:00
+[2022-04-07 04:35:13,755] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.058 seconds
+[2022-04-07 04:35:44,374] {processor.py:163} INFO - Started process (PID=6961) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:35:44,376] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:35:44,376] {logging_mixin.py:109} INFO - [2022-04-07 04:35:44,376] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:35:44,389] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:35:44,407] {logging_mixin.py:109} INFO - [2022-04-07 04:35:44,407] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:35:44,426] {logging_mixin.py:109} INFO - [2022-04-07 04:35:44,426] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:33:44.425901+00:00
+[2022-04-07 04:35:44,435] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.062 seconds
+[2022-04-07 04:36:14,962] {processor.py:163} INFO - Started process (PID=7013) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:36:14,963] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:36:14,964] {logging_mixin.py:109} INFO - [2022-04-07 04:36:14,963] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:36:14,977] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:36:14,994] {logging_mixin.py:109} INFO - [2022-04-07 04:36:14,993] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:36:15,009] {logging_mixin.py:109} INFO - [2022-04-07 04:36:15,009] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:34:15.009592+00:00
+[2022-04-07 04:36:15,017] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.059 seconds
+[2022-04-07 04:36:45,699] {processor.py:163} INFO - Started process (PID=7074) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:36:45,700] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:36:45,701] {logging_mixin.py:109} INFO - [2022-04-07 04:36:45,701] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:36:45,714] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:36:45,731] {logging_mixin.py:109} INFO - [2022-04-07 04:36:45,731] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:36:45,745] {logging_mixin.py:109} INFO - [2022-04-07 04:36:45,745] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:34:45.745536+00:00
+[2022-04-07 04:36:45,752] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.055 seconds
+[2022-04-07 04:37:16,372] {processor.py:163} INFO - Started process (PID=7127) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:37:16,373] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:37:16,374] {logging_mixin.py:109} INFO - [2022-04-07 04:37:16,374] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:37:16,389] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:37:16,406] {logging_mixin.py:109} INFO - [2022-04-07 04:37:16,406] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:37:16,421] {logging_mixin.py:109} INFO - [2022-04-07 04:37:16,421] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:35:16.421635+00:00
+[2022-04-07 04:37:16,429] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.061 seconds
+[2022-04-07 04:37:46,545] {processor.py:163} INFO - Started process (PID=7188) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:37:46,547] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:37:46,547] {logging_mixin.py:109} INFO - [2022-04-07 04:37:46,547] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:37:46,562] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:37:46,580] {logging_mixin.py:109} INFO - [2022-04-07 04:37:46,580] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:37:46,595] {logging_mixin.py:109} INFO - [2022-04-07 04:37:46,595] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:35:46.594959+00:00
+[2022-04-07 04:37:46,603] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.060 seconds
+[2022-04-07 04:38:16,649] {processor.py:163} INFO - Started process (PID=7239) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:38:16,653] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:38:16,656] {logging_mixin.py:109} INFO - [2022-04-07 04:38:16,655] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:38:16,680] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:38:16,698] {logging_mixin.py:109} INFO - [2022-04-07 04:38:16,698] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:38:16,713] {logging_mixin.py:109} INFO - [2022-04-07 04:38:16,713] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:36:16.713443+00:00
+[2022-04-07 04:38:16,722] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.082 seconds
+[2022-04-07 04:38:46,981] {processor.py:163} INFO - Started process (PID=7300) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:38:46,982] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:38:46,983] {logging_mixin.py:109} INFO - [2022-04-07 04:38:46,983] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:38:46,998] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:38:47,016] {logging_mixin.py:109} INFO - [2022-04-07 04:38:47,016] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:38:47,035] {logging_mixin.py:109} INFO - [2022-04-07 04:38:47,035] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:36:47.035309+00:00
+[2022-04-07 04:38:47,063] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.085 seconds
+[2022-04-07 04:39:17,268] {processor.py:163} INFO - Started process (PID=7351) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:39:17,271] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:39:17,271] {logging_mixin.py:109} INFO - [2022-04-07 04:39:17,271] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:39:17,290] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:39:17,309] {logging_mixin.py:109} INFO - [2022-04-07 04:39:17,309] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:39:17,329] {logging_mixin.py:109} INFO - [2022-04-07 04:39:17,329] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:37:17.328749+00:00
+[2022-04-07 04:39:17,338] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.077 seconds
+[2022-04-07 04:39:48,152] {processor.py:163} INFO - Started process (PID=7412) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:39:48,153] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:39:48,153] {logging_mixin.py:109} INFO - [2022-04-07 04:39:48,153] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:39:48,166] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:39:48,182] {logging_mixin.py:109} INFO - [2022-04-07 04:39:48,182] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:39:48,196] {logging_mixin.py:109} INFO - [2022-04-07 04:39:48,196] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:37:48.196219+00:00
+[2022-04-07 04:39:48,203] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.054 seconds
+[2022-04-07 04:40:18,934] {processor.py:163} INFO - Started process (PID=7463) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:40:18,935] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:40:18,936] {logging_mixin.py:109} INFO - [2022-04-07 04:40:18,936] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:40:18,949] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:40:18,969] {logging_mixin.py:109} INFO - [2022-04-07 04:40:18,968] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:40:18,988] {logging_mixin.py:109} INFO - [2022-04-07 04:40:18,988] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:38:18.987899+00:00
+[2022-04-07 04:40:18,996] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.065 seconds
+[2022-04-07 04:40:49,831] {processor.py:163} INFO - Started process (PID=7524) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:40:49,832] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:40:49,832] {logging_mixin.py:109} INFO - [2022-04-07 04:40:49,832] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:40:49,845] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:40:49,861] {logging_mixin.py:109} INFO - [2022-04-07 04:40:49,861] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:40:49,874] {logging_mixin.py:109} INFO - [2022-04-07 04:40:49,874] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:38:49.873960+00:00
+[2022-04-07 04:40:49,880] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.051 seconds
+[2022-04-07 04:41:20,601] {processor.py:163} INFO - Started process (PID=7574) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:41:20,602] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:41:20,603] {logging_mixin.py:109} INFO - [2022-04-07 04:41:20,603] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:41:20,616] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:41:20,635] {logging_mixin.py:109} INFO - [2022-04-07 04:41:20,635] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:41:20,653] {logging_mixin.py:109} INFO - [2022-04-07 04:41:20,653] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:39:20.653398+00:00
+[2022-04-07 04:41:20,662] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.063 seconds
+[2022-04-07 04:41:51,399] {processor.py:163} INFO - Started process (PID=7636) to work on /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:41:51,399] {processor.py:642} INFO - Processing file /opt/airflow/dags/send_mail_dag.py for tasks to queue
+[2022-04-07 04:41:51,400] {logging_mixin.py:109} INFO - [2022-04-07 04:41:51,400] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:41:51,413] {processor.py:652} INFO - DAG(s) dict_keys(['send_mail']) retrieved from /opt/airflow/dags/send_mail_dag.py
+[2022-04-07 04:41:51,428] {logging_mixin.py:109} INFO - [2022-04-07 04:41:51,428] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-07 04:41:51,442] {logging_mixin.py:109} INFO - [2022-04-07 04:41:51,442] {dag.py:2937} INFO - Setting next_dagrun for send_mail to 2022-04-07T04:39:51.442659+00:00
+[2022-04-07 04:41:51,450] {processor.py:171} INFO - Processing /opt/airflow/dags/send_mail_dag.py took 0.053 seconds

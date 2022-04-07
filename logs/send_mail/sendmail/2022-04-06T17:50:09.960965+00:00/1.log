@@ -1,0 +1,23 @@
+[2022-04-06 17:50:11,104] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: send_mail.sendmail manual__2022-04-06T17:50:09.960965+00:00 [queued]>
+[2022-04-06 17:50:11,116] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: send_mail.sendmail manual__2022-04-06T17:50:09.960965+00:00 [queued]>
+[2022-04-06 17:50:11,117] {taskinstance.py:1249} INFO - 
+--------------------------------------------------------------------------------
+[2022-04-06 17:50:11,117] {taskinstance.py:1250} INFO - Starting attempt 1 of 1
+[2022-04-06 17:50:11,117] {taskinstance.py:1251} INFO - 
+--------------------------------------------------------------------------------
+[2022-04-06 17:50:11,131] {taskinstance.py:1270} INFO - Executing <Task(PythonOperator): sendmail> on 2022-04-06 17:50:09.960965+00:00
+[2022-04-06 17:50:11,136] {standard_task_runner.py:52} INFO - Started process 1765 to run task
+[2022-04-06 17:50:11,139] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'send_mail', 'sendmail', 'manual__2022-04-06T17:50:09.960965+00:00', '--job-id', '17', '--raw', '--subdir', 'DAGS_FOLDER/send_mail_dag.py', '--cfg-path', '/tmp/tmp2rqkv1de', '--error-file', '/tmp/tmphzsa_opl']
+[2022-04-06 17:50:11,140] {standard_task_runner.py:80} INFO - Job 17: Subtask sendmail
+[2022-04-06 17:50:11,202] {logging_mixin.py:109} INFO - Running <TaskInstance: send_mail.sendmail manual__2022-04-06T17:50:09.960965+00:00 [running]> on host 669712b97f52
+[2022-04-06 17:50:11,258] {taskinstance.py:1448} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=send_mail
+AIRFLOW_CTX_TASK_ID=sendmail
+AIRFLOW_CTX_EXECUTION_DATE=2022-04-06T17:50:09.960965+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-04-06T17:50:09.960965+00:00
+[2022-04-06 17:50:13,159] {logging_mixin.py:109} INFO - Something went wrong…. (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials y11-20020aa793cb000000b004fb597d85b2sm19690486pff.160 - gsmtp')
+[2022-04-06 17:50:13,160] {python.py:175} INFO - Done. Returned value was: None
+[2022-04-06 17:50:13,172] {taskinstance.py:1288} INFO - Marking task as SUCCESS. dag_id=send_mail, task_id=sendmail, execution_date=20220406T175009, start_date=20220406T175011, end_date=20220406T175013
+[2022-04-06 17:50:13,195] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-04-06 17:50:13,226] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
